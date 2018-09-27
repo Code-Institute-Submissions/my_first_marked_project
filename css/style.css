@@ -1,0 +1,82 @@
+/*BACKGROUND IMAGE---------------------------------------------------------------------------*/
+
+body {
+    background-image: url("../photo/The_Script_Cover_2017_FINAL_SQ_RGB.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    background-attachment: scroll;
+    background-color: #091729;
+    color: white;
+}
+
+
+
+
+/*NAVBAR-------------------------------------------------------------------------------------*/
+
+/*ALL MUSIC PARTS-----------------------------------------------------------------------------*/
+
+
+.text-on-screen,
+.timeline-item .tops .accessories .hoodies .fa {
+    color: white;
+}
+
+
+.tops {
+    height: 100px;
+    width: 100px;
+
+
+}
+
+.sign-up {
+    color: white;
+}
+
+.about-text {
+    color: white;
+    border-style: solid;
+    border-color: white;
+}
+
+
+/*column on homepage-------------------------------------------------------------------------------------*/
+
+.left-column {
+    width: 25%;
+    border-style: solid;
+    border-color: white;
+    float: left;
+}
+
+.center-column {
+    width: 50%;
+    border-style: solid;
+    border-color: white;
+    float: left;
+}
+
+.right-column {
+      width: 25%;
+    border-style:solid;
+    border-color: white;
+    float:left;
+}
+
+.container {
+    width: 100%;
+    border-style: solid;
+    border-color: white;
+    padding-top: 10%;
+}
+
+.footer_bar {
+    width: 100%;
+    border-style: solid;
+    border-color: white;
+    font-size: 50px;
+    
+}
+
