@@ -80,3 +80,14 @@ body {
     
 }
 
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000 } 
+
+.navbar-custom .nav > li > a {
+    color:red;
+}
