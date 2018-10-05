@@ -1,4 +1,4 @@
-MY_FIRST_MARKED_PROJECT
+# MY_FIRST_MARKED_PROJECT
 
 In this project i focused on developing my front end skills with the use of HTML and CSS.
 I have pushed my knowledge to its limit and boundaries by creating content with both code
@@ -32,6 +32,12 @@ bar for convenience for the user as it would make finding information much easie
 
 user story:
 A user wished to book in the band for an event, and i added a bookings page with a sign up form 
-for them to complete so that they were able to enquire about the specific 
+for them to complete so that they were able to enquire about the specific dates they wish to hire
+the band.
+
+
+FEATURES
+
+One feature i decided to implement was a sign up button. This gave the user the ability to
 
 
