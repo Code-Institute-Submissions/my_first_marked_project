@@ -303,12 +303,6 @@ hr {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /*min-width: 800px;*/
-    /*width: 800px;*/
-    /*height: 400px;*/
-    /*max-height: 400px;*/
-    /*max-width: 800px;*/
-
 }
 
 /*----------------------------------------------------media queries------------------------------------*/
@@ -337,13 +331,24 @@ hr {
 
 .sign-in {
     width: 50%;
+    margin-top: 10%;
 }
 
-.tweets {
-    float: left;
-    margin-top: 30%;
+.twitter-tweet {
+width: 100%;;
+float: left;
 }
 
 .custom_button {
     width: 300px;
+}
+
+.social-media-links {
+    width: auto;
+    float: left;
+    height: 36px;
+}
+
+.submit-button {
+    color: black;
 }
