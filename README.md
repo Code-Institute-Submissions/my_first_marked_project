@@ -73,6 +73,16 @@ for booking the band in for an event.
   as it allowed me to step out of my own mind and look at my project from 
   a users point of view. 
 
+# BUGS
+
+I encountered a few bugs in which some i managed to overcome..
+- a bug stopping my video from centering was fixed by wrapping the video 
+  in a div, wrapping both text and video, to allow it to center correctly.
+
+# DEPLOYEMENT
+- i have successfully deployed my website, which is hosted on github.
+  the deployed version and the local versions are the same.
+
 
 # CREDITS
 
