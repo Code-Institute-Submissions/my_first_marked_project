@@ -1,0 +1,30 @@
+STRATEGY:
+i am aiming to achieve an informative website that showcases the strong musical talents of the band, 
+also showcasing that they have a strong stage presence, and that they are available for hire...
+my target audience is to attract a new fan base, as well as maintain their current fan base.
+
+SCOPE:
+features such as...
+-bookings page
+-ability to listen to bands music, both on video and in audio
+-photo album page/tweets
+-contact links/social media links
+-dropdown navigation menu when in mobile view
+-full navigation bar whilst on desktop view
+
+STRUCTURE:
+the structure of the website should be easily navigated; as the band has been playing for over 50
+years, they will have fans of all ages. The information should be easily displayed, and navigation
+buttons should be clear and easily found.
+
+SCOPE:
+The information should be implemented in blocks; they will navigate the information with clear 
+buttons displayed on every page, as well as navigation bar. Each category will have a linked 
+relationship, so that the entire website is easily navigated and the flow of the website is 
+strong. The highest priority is to have the bands material on the website for people to observe
+and listen to, and the lowerst priority is the social media links, as they are still in the 
+process of setting up the platforms. We will navigate through those priorities by a navbar.
+
+SURFACE: 
+bright colours to make the viewer happy (astectically pleasing). Simple transitions such as
+hover will be used.
