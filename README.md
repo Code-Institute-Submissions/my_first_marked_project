@@ -83,4 +83,8 @@ The images used in this site was obtained from:
 -   The Script official webpage.
 -   Wattpad
 -   Famousbirthdays.com
--   
+
+# Inspiration
+
+- I recieved inspiration for my web page from The script official webpage, which supplied me
+  with the pictures and some of the information used in the "About" page.
